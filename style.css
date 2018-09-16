@@ -34,10 +34,10 @@
     width: 900px;
   }
   
-  section {
+  #section {
       width: 500px;
-      height: 200px;
-      margin: 0px 16px 0px 30px; 
+      height: 400px;
+      margin: 0px 8px 0px 30px; 
       color: #777;
       padding: 20px 0;
       background: #ebebeb;
@@ -46,38 +46,36 @@
   #article {
       background: #777;
       color: #ebebeb;
-      float: left;
       width: 484px;
       height: 200px;
-      margin: 16px;
+      margin: auto;
   }
   
   #h1h2h3 {
       background: #ebebeb;
       color: #777;
-      float: left;
+      float: center;
       width: 468px;
-      height: 100px;
+      height: 50px;
       margin: 4px auto;
   }
   
   #p {
       background: #ebebeb;
       color: #777;
-      float: left;
+      float: center;
       width: 468px;
-      height: 100px;
+      height: 50px;
       margin: 4px auto;
   }
   
   aside {
       background: #ebebeb;
       width: 385px;
-      height: 200px;
+      height: 400px;
       float: right;
-      height: 175px;
       padding-top: 15px;
-      margin-left: 30px;
+      margin-left: 8px;
   }
   
   footer {
@@ -86,5 +84,6 @@
     color: #777;
     background: #ebebeb;
     width: 900px;
+    text-align: center;
   }
   

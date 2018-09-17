@@ -34,6 +34,16 @@
     width: 900px;
   }
 
+  h1 {
+      margin: 0 auto;
+      font-size: 18px;
+  }
+
+  p {
+    margin: 0 auto;
+    font-size: 18px;
+}
+
   #full {
     background: #777;
     width: 100%;
@@ -41,7 +51,7 @@
     margin-top: 20px 0;
 }
   #section {
-      width: 500px;
+      width: 495px;
       height: 260px;
       margin: 0 8px 0 30px; 
       color: #777;
@@ -81,7 +91,7 @@
   #aside {
       background: #ebebeb;
       color: #777;
-      width: 380px;
+      width: 385px;
       height: 260px;
       float: right;
       padding: 20px 0;
